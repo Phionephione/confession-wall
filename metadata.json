@@ -1,0 +1,5 @@
+{
+  "name": "Anonymous Confession Wall",
+  "description": "A simple anonymous wall where users can post confessions. Toxic content is automatically filtered using AI.",
+  "requestFramePermissions": []
+}
